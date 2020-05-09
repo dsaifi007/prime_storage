@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://danishmaint@bitbucket.org/chromeinfotech/primestorage_backend.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "admin_panel"]
+	remote = origin
+	merge = refs/heads/admin_panel
+[branch "Database_files"]
+	remote = origin
+	merge = refs/heads/Database_files

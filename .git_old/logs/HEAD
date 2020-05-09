@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 c2310464192cf1b38619b85825ff40b039e6af9d danishk <danishk@chromeinfotech.com> 1540965202 +0530	clone: from https://danishmaint@bitbucket.org/chromeinfotech/primestorage_backend.git
+c2310464192cf1b38619b85825ff40b039e6af9d 8417d215ee84dad57710c1487d93c138246d2a42 danishk <danishk@chromeinfotech.com> 1540965318 +0530	commit: complete admin
+8417d215ee84dad57710c1487d93c138246d2a42 8417d215ee84dad57710c1487d93c138246d2a42 danishk <danishk@chromeinfotech.com> 1540965528 +0530	checkout: moving from master to admin_panel
+8417d215ee84dad57710c1487d93c138246d2a42 0166262da55b6d6d23300fcb5f978d20e2e165a4 danishk <danishk@chromeinfotech.com> 1540965666 +0530	commit: complted admin panel
+0166262da55b6d6d23300fcb5f978d20e2e165a4 0166262da55b6d6d23300fcb5f978d20e2e165a4 danishk <danishk@chromeinfotech.com> 1540966558 +0530	checkout: moving from admin_panel to Database_files
+0166262da55b6d6d23300fcb5f978d20e2e165a4 1497cc9fdb21c9bf6272696342eced90b0ac83ee danishk <danishk@chromeinfotech.com> 1540966654 +0530	commit: database file
+1497cc9fdb21c9bf6272696342eced90b0ac83ee 0166262da55b6d6d23300fcb5f978d20e2e165a4 danishk <danishk@chromeinfotech.com> 1540966784 +0530	checkout: moving from Database_files to admin_panel
+0166262da55b6d6d23300fcb5f978d20e2e165a4 20fe39fb69b3b29ceb4fbba2215f7465ec88073c danishk <danishk@chromeinfotech.com> 1540989957 +0530	commit: make new api and some changes in api according to the new design
+20fe39fb69b3b29ceb4fbba2215f7465ec88073c 4dca7a629010a08d6d70e04d02880f760e002b56 danishk <danishk@chromeinfotech.com> 1541045426 +0530	commit: few change
+4dca7a629010a08d6d70e04d02880f760e002b56 052516d8563fe9a8076f28e405dc9f7d71a9c26f danishk <danishk@chromeinfotech.com> 1541078806 +0530	commit: working on subamdin for admin panel
+052516d8563fe9a8076f28e405dc9f7d71a9c26f 5c7f39b17336095820a9f173a20b5259685cbb84 danishk <danishk@chromeinfotech.com> 1541162869 +0530	commit: no work on prime storage
